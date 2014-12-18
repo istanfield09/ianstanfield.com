@@ -1,0 +1,10 @@
+<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+  <div class="container">
+
+  	<h1 id='logo'>
+  		<%= link_to Refinery::Core.site_name, refinery.root_path %>
+	</h1>
+
+    <%= Refinery::Pages::MenuPresenter.new(refinery_menu_pages, self).to_html %>
+  </div>
+</nav>
