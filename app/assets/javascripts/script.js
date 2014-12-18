@@ -2,5 +2,5 @@ vpw = $(window).width();
 vph = $(window).height();
 
 $('.jumbotron').height(vph);
-$('.inner').css("top", vph*.75);
+$('.inner').css("top", vph*.65);
 
