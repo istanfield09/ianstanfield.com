@@ -50,7 +50,9 @@ a { color: #777777}
 
 #body_content_title { display: none; }
 
-.inner {padding-top: 55%;}
+.inner {padding-top: 55%;
+        position: relative;
+ }
 
 .jumbotron {
   height: 100%;
