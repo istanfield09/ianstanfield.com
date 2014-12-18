@@ -39,6 +39,7 @@ header {
 #page {
 	padding: 0;
 	margin: 0;
+  position: relative;
 }
 
 #resume_page {
