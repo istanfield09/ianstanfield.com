@@ -50,10 +50,10 @@ a { color: #777777}
 
 #body_content_title { display: none; }
 
-.inner {height: 100%;}
+.inner {padding-top: 55%;}
 
 .jumbotron {
-
+  height: 100%;
   background-size: cover;
 
 }
