@@ -57,7 +57,7 @@ a { color: #777777}
 .jumbotron {
   height: 100%;
   background-size: cover;
-
+  background-image: url("pine_trees_snow.jpg"); 
 }
 
 /* Smartphones (portrait and landscape) ----------- */
