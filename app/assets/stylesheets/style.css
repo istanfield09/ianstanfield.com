@@ -52,6 +52,8 @@ a { color: #777777}
 
 .inner {top:300px ;
         position: relative;
+        background-color: white;
+        background: rgba(255, 255, 255, .75);
  }
 
 .jumbotron {
