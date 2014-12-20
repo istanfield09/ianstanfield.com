@@ -69,3 +69,8 @@ and (min-device-width : 320px)
 and (max-device-width : 480px) {
 
 }
+
+.clearfix:after, section:after {
+    content: "" !important;
+    display: none; !important;
+}
