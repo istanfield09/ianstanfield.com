@@ -41,6 +41,10 @@ header {
   position: relative;
 }
 
+#resume {
+  padding-top: 50px;
+}
+
 #resume_page {
 	margin: 0 15%;
 }
