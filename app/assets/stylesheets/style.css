@@ -72,5 +72,5 @@ and (max-device-width : 480px) {
 
 .clearfix:after, section:after {
 
-    display: none; !important;
+    display: none !important;
 }
