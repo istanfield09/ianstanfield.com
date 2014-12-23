@@ -8,6 +8,14 @@ GIT
       activesupport (>= 3.0, < 5.0)
 
 GIT
+  remote: https://github.com/bokmann/font-awesome-rails
+  revision: c0d7c66419df8baa2271b8143a608659e410b9e7
+  branch: master
+  specs:
+    font-awesome-rails (4.2.0.0)
+      railties (>= 3.2, < 5.0)
+
+GIT
   remote: https://github.com/parndt/seo_meta
   revision: c575efda84bb775694c32b13f9b446265c6b1e33
   branch: master
@@ -324,6 +332,7 @@ PLATFORMS
 
 DEPENDENCIES
   coffee-rails (~> 4.0.0)
+  font-awesome-rails!
   jbuilder (~> 2.0)
   jquery-rails
   less-rails
