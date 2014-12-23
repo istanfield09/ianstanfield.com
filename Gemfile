@@ -12,6 +12,7 @@ group :production do
   gem 'pg'
 end
 
+gem 'font-awesome-rails', git: 'https://github.com/bokmann/font-awesome-rails', branch: 'master'
 
 
 # Use SCSS for stylesheets
