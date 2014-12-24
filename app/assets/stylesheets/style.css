@@ -80,4 +80,7 @@ and (max-device-width : 480px) {
 .clearfix:after, section:after {
 
     display: none !important;
+
 }
+
+.em:hover { color: #777777 }
