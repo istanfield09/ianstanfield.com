@@ -83,4 +83,5 @@ and (max-device-width : 480px) {
 
 }
 
-em:hover { color: #777777 }
+em:hover { color: #777777; }
+a:visited { color: black;}
