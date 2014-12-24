@@ -84,6 +84,8 @@ and (max-device-width : 480px) {
 }
 
 em:hover { color: #777777 !important; }
-
+a:visited {color: #777777;}
 .sociallink { color: black !important;
-              text-decoration: none !important;}
+              text-decoration: none !important;
+            }
+.sociallink:visited {color: black;}
