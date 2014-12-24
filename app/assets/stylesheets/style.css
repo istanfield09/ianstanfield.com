@@ -85,4 +85,6 @@ and (max-device-width : 480px) {
 
 em:hover { color: #777777; }
 em { color: black !important;}
+.sociallink { color: black !important;
+              text-decoration: none !important;}
 a:visited { color: black;}
